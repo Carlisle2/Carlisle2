@@ -34,7 +34,7 @@
   - **简介**：参与基于检索增强生成（RAG）的问答系统开发。独立负责 Python AI 服务模块，从零搭建 RAG 环境，接入阿里云 DashScope Embedding 模型与 FAISS 向量检索引擎。将复杂业务逻辑重构为文件读取、文本切分、向量化等七个核心模块，并对外提供 4 个 RESTful API，支持 TXT/PDF/DOCX 多格式文档的语义检索。参与代码审查并修复 6 个安全漏洞，编写 pytest 测试用例全部通过。
   - **技术栈**：`Python` / `RAG` / `FAISS` / `Spring Boot` / `pytest`
 
-- **[智能反诈辅助服务（大模型应用）](链接)** 🌐 信息技术应用与社会服务
+- **[智能反诈辅助服务（大模型应用）]([链接](https://github.com/Carlisle2/llm-anti-fraud-assistant))** 🌐 信息技术应用与社会服务
   - **简介**：独立开发的面向长辈的 AI 反诈辅助原型。基于 Python 与 Streamlit 搭建 Web 界面，接入阿里云百炼大模型 API。通过两轮 Prompt Engineering 优化（设定角色、固定输出格式、降低 temperature），有效解决了大模型输出发散的问题。系统包含隐私提醒机制，能对可疑短信进行结构化风险分析，并成功在实际场景中协助家人识别多条诈骗信息。
   - **技术栈**：`Python` / `Streamlit` / `Prompt Engineering` / `LLM API` / `阿里云百炼`
 
@@ -44,15 +44,15 @@
 
 #### 🛠 软件工程与系统开发
 
-- **[软著一：校园信息门户系统](campus-portal-system链接)** 📜 软件著作权
+- **[软著一：校园信息门户系统]([链接](https://github.com/Carlisle2/campus-portal-system))** 📜 软件著作权
   - **简介**：独立开发的基于 Java Web 与 B/S 架构的校园信息管理平台。前端采用 HTML5/CSS3/JS 实现响应式布局，后端基于 JSP/Servlet 开发。系统包含前台展示（轮播图、动态新闻加载）与后台管理（仪表盘数据可视化、角色权限控制、富文本新闻发布）两大模块，并针对 SQL 注入等安全问题进行了防护。
   - **技术栈**：`Java Web` / `JSP/Servlet` / `MySQL` / `HTML/CSS/JS`
 
-- **[软著二：校园信息管理平台](campus-info-platform链接)** 📜 软件著作权
+- **[软著二：校园信息管理平台]([链接](https://github.com/Carlisle2/campus-info-platform))** 📜 软件著作权
   - **简介**：基于 MVC 架构的综合性校园后台管理平台。核心功能包括多角色分类导航（系统中心/教师/学生/行政）、专业与班级信息维护、以及学生基本信息与成绩的统一跟踪管理。采用分级折叠式菜单与统一的框架式页面布局，提升了复杂后台系统的操作体验。
   - **技术栈**：`Java Web` / `MVC` / `MySQL` / `JDBC`
 
-- **[ERP 课程设计](链接)** 📚 课程设计
+- **[ERP 课程设计]([链接](https://github.com/Carlisle2/erp-system))** 📚 课程设计
   - **简介**：基于企业资源计划（ERP）理念的课程设计项目，结合数据库技术与后端逻辑，实现企业核心业务流程（如进销存或供应链管理）的数字化、系统化集成。
   - **技术栈**：`ERP` / `SQL` / `Java`
 
