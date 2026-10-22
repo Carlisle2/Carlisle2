@@ -15,11 +15,12 @@
 
 ### 📝 学术成果 (Publications)
 
-- **[An Innovative Multimodal AKI Prediction with Integrated Model Based on Pre-trained BERT and TFT Network](论文链接)** (第一作者)
+- **[An Innovative Multimodal AKI Prediction with Integrated Model Based on Pre-trained BERT and TFT Network]** (第一作者)
   - **发表期刊**：*Journal of King Saud University - Computer and Information Sciences* (SCI, JCR Q1, 中科院2区, IF 6.1), 2026.
   - **简介**：基于 MIMIC-III 重症监护数据库，融合 Temporal Fusion Transformer 与 ClinicalBERT，对结构化时序数据和非结构化临床文本进行多模态建模，实现 ICU 患者急性肾损伤（AKI）风险的动态预测。模型具备可解释性输出，性能优于多种基线模型。
-
-- **[An Automated Ensemble Learning Framework with Nonlinear Feature Enhancement for Postoperative AKI Prediction](论文链接)** (第一作者, 在审)
+ - **论文链接**：https://link.springer.com/article/10.1007/s44443-026-01189-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260908&utm_content=10.1007%2Fs44443-026-01189-1
+   
+- **[An Automated Ensemble Learning Framework with Nonlinear Feature Enhancement for Postoperative AKI Prediction]** (第一作者, 在审)
   - **投稿期刊**：*Artificial Intelligence Review* (中科院1区TOP).
   - **简介**：针对临床指标的阈值效应，提出非线性特征增强模块（平方变换放大高风险信号），结合 SMOTE 过采样与 AutoGluon 自动化集成建模，并通过 SHAP 分析形成可解释性闭环。
 
@@ -29,7 +30,7 @@
 
 #### 🤖 人工智能与大模型应用
 
-- **[实习项目：基于 RAG 的校园问答助手](链接)** 💼 企业实习 (Private)
+- **[实习项目：基于 RAG 的校园问答助手](链接)** 💼 企业实习 
   - **简介**：参与基于检索增强生成（RAG）的问答系统开发。独立负责 Python AI 服务模块，从零搭建 RAG 环境，接入阿里云 DashScope Embedding 模型与 FAISS 向量检索引擎。将复杂业务逻辑重构为文件读取、文本切分、向量化等七个核心模块，并对外提供 4 个 RESTful API，支持 TXT/PDF/DOCX 多格式文档的语义检索。参与代码审查并修复 6 个安全漏洞，编写 pytest 测试用例全部通过。
   - **技术栈**：`Python` / `RAG` / `FAISS` / `Spring Boot` / `pytest`
 
