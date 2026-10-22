@@ -15,9 +15,10 @@
 
 ### 📝 学术成果 (Publications)
 
-- **[An Innovative Multimodal AKI Prediction with Integrated Model Based on Pre-trained BERT and TFT Network]([论文链接](https://link.springer.com/article/10.1007/s44443-026-01189-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260908&utm_content=10.1007%2Fs44443-026-01189-1))** (第一作者)
+- **[An Innovative Multimodal AKI Prediction with Integrated Model Based on Pre-trained BERT and TFT Network]** (第一作者)
   - **发表期刊**：*Journal of King Saud University - Computer and Information Sciences* (SCI, JCR Q1, 中科院2区, IF 6.1), 2026.
   - **简介**：基于 MIMIC-III 重症监护数据库，融合 Temporal Fusion Transformer 与 ClinicalBERT，对结构化时序数据和非结构化临床文本进行多模态建模，实现 ICU 患者急性肾损伤（AKI）风险的动态预测。模型具备可解释性输出，性能优于多种基线模型。
+  - **论文链接**:https://link.springer.com/article/10.1007/s44443-026-01189-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260908&utm_content=10.1007%2Fs44443-026-01189-1))
    
 - **[An Automated Ensemble Learning Framework with Nonlinear Feature Enhancement for Postoperative AKI Prediction]** (第一作者, 在审)
   - **投稿期刊**：*Artificial Intelligence Review* (中科院1区TOP).
